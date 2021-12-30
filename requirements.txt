@@ -1,4 +1,0 @@
-inquirer==2.9.1
-md2notion==2.4.1
-python-dotenv==0.19.2
-#git+https://github.com/jamalex/notion-py.git@refs/pull/294/merge
